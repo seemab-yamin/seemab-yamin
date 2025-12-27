@@ -1,0 +1,15 @@
+<!-- This is a placeholder file. Replace hero-image.jpg with your actual profile photo -->
+
+To add your profile picture:
+1. Save your profile photo as "hero-image.jpg" in the same folder as index.html
+2. Make sure the image is:
+   - Square aspect ratio (e.g., 400x400px) for best results
+   - Good quality (at least 200x200px)
+   - JPG, PNG, or WebP format
+
+Recommended photo guidelines:
+- Professional headshot
+- Good lighting
+- Clear background (or one that contrasts well)
+- Face should be clearly visible
+- Formal or business casual attire
