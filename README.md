@@ -1,6 +1,6 @@
 # Seemab Yamin Portfolio Website
 
-A modern, responsive portfolio website for Seemab Yamin, a Python Engineer and LLM Enthusiast.
+A modern, responsive portfolio website for Seemab Yamin, a AI Researcher & Engineer.
 
 ## Features
 
