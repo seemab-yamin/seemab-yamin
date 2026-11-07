@@ -7,6 +7,9 @@ Based in Changsha, China (UTC+8). Open to CV and AI engineering roles from Decem
 
 ## Featured projects
 
+**[RF-DETR Model Deployment](https://github.com/seemab-yamin/rfdetr-model-deployment)**
+GPU REST API for RF-DETR object detection. Runs the RF-DETR Nano COCO model as ONNX with ONNX Runtime CUDA behind FastAPI, and falls back to CPU when no GPU is present. Routes for prediction, annotated images, health, and readiness. CI builds, tests, and pushes the Docker image to Docker Hub.
+
 **[YOLOv8 FastAPI Deployment](https://github.com/seemab-yamin/yolov8-fastapi-deployment)**
 YOLOv8s object detection served as a REST API with FastAPI and Docker. GitHub Actions builds the image and pushes it to Docker Hub. Runs on a RunPod endpoint with health check and prediction routes.
 
@@ -21,8 +24,8 @@ Async OCR service on AWS. FastAPI on Lambda takes PNG and JPEG uploads to S3, qu
 
 ## Skills
 
-- **Computer vision:** PyTorch, TensorFlow, OpenCV, YOLOv8, Tesseract OCR, transfer learning
-- **Deployment:** FastAPI, Docker, GitHub Actions, AWS (Lambda, S3, SQS, DynamoDB), RunPod, Linux
+- **Computer vision:** PyTorch, TensorFlow, OpenCV, YOLOv8, RF-DETR, Tesseract OCR, transfer learning
+- **Deployment:** FastAPI, Docker, ONNX Runtime (CUDA), GitHub Actions, pytest, AWS (Lambda, S3, SQS, DynamoDB), RunPod, Linux
 - **Also:** Python backend and data pipelines since 2022 (Django, Airflow, SQL)
 
 ## Education and certificates
