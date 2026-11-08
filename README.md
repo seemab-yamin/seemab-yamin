@@ -8,7 +8,7 @@ Based in Changsha, China (UTC+8). Open to CV and AI engineering roles from Decem
 ## Featured projects
 
 **[RF-DETR Model Deployment](https://github.com/seemab-yamin/rfdetr-model-deployment)**
-GPU REST API for RF-DETR object detection with ONNX Runtime and FastAPI. CI builds the Docker image and pushes it to Docker Hub.
+GPU REST API for RF-DETR object detection with ONNX Runtime and FastAPI. CI builds the Docker image and pushes it to Docker Hub. Built from my reusable [FastAPI model service template](https://github.com/seemab-yamin/fastapi-model-service) for ONNX detection models.
 
 **[YOLOv8 FastAPI Deployment](https://github.com/seemab-yamin/yolov8-fastapi-deployment)**
 YOLOv8s object detection served as a REST API with FastAPI and Docker. GitHub Actions builds the image and pushes it to Docker Hub. Runs on a RunPod endpoint with health check and prediction routes.
