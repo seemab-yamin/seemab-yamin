@@ -3,7 +3,7 @@
 **AI Engineer | Computer Vision | PyTorch, OpenCV, YOLOv8 | Model Deployment**
 
 I build computer vision systems end to end: data, model, and a working API.
-Based in Changsha, China (UTC+8). Open to CV and AI engineering roles from December 2026.
+Based in Changsha, China (UTC+8). Open to CV and AI engineering roles.
 
 ## Featured projects
 
@@ -19,7 +19,7 @@ Async OCR service on AWS. FastAPI on Lambda takes PNG and JPEG uploads to S3, qu
 ## Research
 
 - MPhil, Civil Engineering, Central South University (2024 to present). Research on defect detection with computer vision.
-- Co-author, ASCE Journal of Transportation Systems paper on low-light railway fastener inspection (accepted 2026).
+- Co-author, ASCE Journal of Transportation Systems paper on low-light railway fastener inspection (published 2026). [DOI](https://doi.org/10.1061/JTEPBS.TEENG-9494)
 - Proofreading and editorial QA for the Elsevier book *Smart Infrastructure Management* (2025).
 
 ## Skills
